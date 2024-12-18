@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@storybook/react": "^8.4.7",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.2",
+    "typescript": "^5.7.2"
+  }
+}
